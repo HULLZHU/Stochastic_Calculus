@@ -7,3 +7,13 @@ If you cannot read some pictures in ipynb, please download html version, and ope
 2.More On Transition Density Function (ipynb,html)
 3.Martingale Property of Symmetic Random Walk (ipynb)
 4.First Passage Time Distribution (ipynb)
+5.Solution of Backward Equation (ipynb)
+
+
+
+
+
+Prompts
+(1) Section 1 and Section 5 provide 2 methods to get the transition density function with the same kernal. The difference is that Section 1
+use more proof steps as prerequisite to prove that the Normality of Symmetric Random Walk (Binomial Walk), but the Section 5 uses Trinomial
+Random Process and Kolmogrov Forward Equation, a PDE, to get the density function
